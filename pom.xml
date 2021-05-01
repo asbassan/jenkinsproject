@@ -46,7 +46,7 @@
 	<distributionManagement>
     <repository>
         <id>releases</id>
-        <url>http://localhost:8082/devops/releases</url>
+        <url>http://localhost:8082/</url>
     </repository>
 	</distributionManagement>
 
